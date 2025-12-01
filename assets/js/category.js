@@ -275,7 +275,11 @@ class CategoryPage {
       // Scroll mượt xuống vùng content mới
       setTimeout(() => {
         const cards = document.querySelectorAll(".article-card");
-        const anchorIndex = this.displayedArticles.length - this.perPage;
+        const anchorIndex =
+          this.displayedArticles.length % 4 === 0
+            ? this.displayedArticles.length - this.perPage
+            : this.displayedArticles.length -
+              (this.displayedArticles.length % 4);
 
         if (cards[anchorIndex]) {
           cards[anchorIndex].scrollIntoView({
@@ -283,7 +287,7 @@ class CategoryPage {
             block: "start",
           });
         }
-      }, 300);
+      }, 400);
     });
   }
 
