@@ -5,7 +5,7 @@ function injectStyle() {
 
   const link = document.createElement("link");
   link.id = "navbar-style";
-  link.href = "../components/Navbar/Navbar.css";
+  link.href = "components/Navbar/Navbar.css";
   link.rel = "stylesheet";
   document.head.appendChild(link);
 }
@@ -60,8 +60,6 @@ function createNavbar() {
                 <li><a href="./category.html?type=A.I.">A.I.</a></li>
                 <li><a href="./category.html?type=Lifestyle">Lifestyle</a></li>
                 <li><a href="./category.html?type=Politics">politics</a></li>
-                <li><a href="./category.html?type=Email">email</a></li>
-                <li><a href="./category.html?type=Podcast">podcast</a></li>
             </ul>
         </div>
     </nav>
