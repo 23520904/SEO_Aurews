@@ -29,7 +29,7 @@ function createMobileMenu() {
         </button>
       </div>
       <ul class="mobile-nav-links">
-        <li><a href="index.html" class="active">Home</a></li>
+        <li><a href="/" class="active">Home</a></li>
         <li><a href="./category.html?type=Latest">Latest</a></li>
         <li><a href="./category.html?type=Business News">Business News</a></li>
         <li><a href="./category.html?type=Money and Markets">Money & Markets</a></li>
