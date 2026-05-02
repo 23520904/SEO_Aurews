@@ -16,6 +16,13 @@ const subtitle = {
 export function getType() {
   const params = new URLSearchParams(window.location.search);
   const param = params.get("type");
+
+  // Nếu không có type param, redirect về Latest
+  if (!param && window.location.pathname.includes("category")) {
+    window.location.replace("category.html?type=Latest");
+    return null;
+  }
+
   return param;
 }
 
