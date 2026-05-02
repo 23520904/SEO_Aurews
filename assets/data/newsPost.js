@@ -1088,6 +1088,417 @@ export const newsPort = [
         <br><br>
         As celebrations continue nationwide, fans and commentators alike agree: this victory is more than a record — it’s a statement of empowerment and progress for women’s sports in India and beyond.
     </p>`
+    },
+    {
+        id: 34,
+        description: "Food Business News 2026: 3 Trends Reshaping the Global F&B Industry",
+        type: 'FOOD BUSINESS',
+        type1: 'Business News',
+        type2: 'Latest',
+        author: 'Jane Port',
+        img: "../assets/img/img36.png",
+        imgCaption: "Food Business News 2026 trend overview showing swicy flavors, protein-fiber synergy, and food tech innovation",
+        focusKeyword: "Food Business News",
+        seoTitle: "Food Business News 2026: 3 Trends Reshaping the Global F&B Industry",
+        metaDescription: "Stay ahead with the latest Food Business News. Discover how \"Swicy\" flavors, the protein-fiber synergy, and next-gen food tech are defining the 2026 food market.",
+        slug: "/food-business-news-2026-trends",
+        keywords: "food industry trends 2026, global F&B market, swicy flavor trend, gut health food business, food technology news.",
+        altText: "Food Business News 2026 trend overview showing swicy flavors, protein-fiber synergy, and food tech innovation",
+        content: `<p>
+                <strong>Food Business News: Navigating the 2026 F&amp;B Revolution</strong>
+                <br>
+                <br>
+                As we move through 2026, the global food and beverage industry is facing a unique crossroads of volatile supply chains and rapid technological innovation. In today’s Food Business News, we break down the three seismic shifts every operator and investor needs to track.
+                <br>
+                <br>
+                <strong>The "Swicy" Flavor Explosion</strong>
+                <br>
+                <br>
+                Flavor profiles are becoming bolder and more complex. The "Swicy" (sweet-and-spicy) trend has moved from niche street food to mainstream global menus.
+                <br>
+                <br>
+                <strong>What’s Trending:</strong> Think tropical fruits like guava or pineapple paired with the intense heat of habanero or jalapeño peppers.
+                <br>
+                <strong>Market Insight:</strong> Major players like McCormick are acquiring new brands to capitalize on this demand for "global heat".
+                <br>
+                <br>
+                <strong>The Power Duo: Protein + Fiber Synergy</strong>
+                <br>
+                <br>
+                While protein was the star of 2025, 2026 is all about the synergy between protein and fiber. Consumers are no longer just looking for "high protein"; they want "gut-healthy" satiety.
+                <br>
+                <br>
+                <strong>Functional Innovation:</strong> Expect to see more "craveable" healthy formats, such as whey-packed oat snacks and nutrient-dense chickpea pastas.
+                <br>
+                <strong>Consumer Shift:</strong> As GLP-1 weight-loss medications become more common, the industry is pivoting toward high-nutrient, low-volume meals.
+                <br>
+                <br>
+                <strong>AI-Driven Efficiency and "Messy Realism"</strong>
+                <br>
+                <br>
+                Technology is no longer just "hype"—it is a necessity for survival. From AI-powered harvests to supply chain traceability, technology is helping brands manage a flat to slightly negative sales volume forecast for the year.
+                <br>
+                <br>
+                <strong>Digital Traceability:</strong> "Digital passports" for ingredients are becoming an entry requirement for global trade to ensure transparency and trust.
+                <br>
+                <strong>Marketing Shift:</strong> In 2026, over-styled, sterile food photography is out. Brands are embracing "messy realism"—images that show real steam, sauce smears, and honest portions to build consumer trust.
+            </p>`
+    },
+    {
+        id: 35,
+        description: "Money Laundering News 2026: AI Trends and FATF Updates",
+        type: 'MONEY LAUNDERING',
+        type1: 'Money and Markets',
+        type2: 'Latest',
+        author: 'Hank Trent',
+        img: "../assets/img/img37.png",
+        imgCaption: "Cyber money laundering 2026 – AI financial crime detection and AML compliance technology",
+        focusKeyword: "Money Laundering News",
+        seoTitle: "Money Laundering News 2026: AI Trends and FATF Updates",
+        metaDescription: "Catch up on the latest Money Laundering News. From AI-driven financial crime to the newest FATF grey list updates, see how 2026 is changing global AML compliance.",
+        altText: "Cyber money laundering 2026 – AI financial crime detection and AML compliance technology",
+        content: `<p>
+                <strong>Money Laundering News: The 2026 Crackdown on Digital Financial Crime</strong>
+                <br>
+                <br>
+                The landscape of global money laundering is undergoing a radical shift in 2026. As criminals leverage Artificial Intelligence (AI) and decentralized finance (DeFi) to mask illicit flows, regulators are responding with unprecedented enforcement and cross-border cooperation. Here is the essential Money Laundering News you need to know today.
+                <br>
+                <br>
+                <strong>The Rise of "AI-Powered" Money Laundering</strong>
+                <br>
+                <br>
+                In 2026, money laundering is no longer just about shell companies; it’s about algorithms. Criminal networks are now using generative AI and predictive modeling to create "synthetic identities" and automate transaction patterns that bypass traditional bank alerts.
+                <br>
+                <br>
+                <strong>The Threat:</strong> These AI-driven methods allow for high-speed "micro-laundering," where small amounts are moved across thousands of accounts simultaneously, making detection nearly impossible for manual systems.
+                <br>
+                <strong>Regulatory Response:</strong> Financial institutions are being pushed to adopt "AI vs. AI" strategies, upgrading their Anti-Money Laundering (AML) technology to include real-time behavioral analysis.
+                <br>
+                <br>
+                <strong>FATF Updates: New Jurisdictions Under Scrutiny</strong>
+                <br>
+                <br>
+                The Financial Action Task Force (FATF) has recently updated its lists of high-risk and monitored jurisdictions as of February 2026, sending ripples through global compliance departments.
+                <br>
+                <br>
+                <strong>The "Grey List" Changes:</strong> Kuwait and Papua New Guinea have been added to the list of Jurisdictions Under Increased Monitoring.
+                <br>
+                <strong>Positive Progress:</strong> On a brighter note, Algeria has substantially completed its action plan and is awaiting an on-site assessment to potentially exit the monitoring list.
+                <br>
+                <strong>High-Risk Stance:</strong> The DPRK (North Korea), Iran, and Myanmar remain on the "Black List," with FATF urging all jurisdictions to apply effective countermeasures.
+                <br>
+                <br>
+                <strong>Crypto &amp; DeFi: The End of the "Wild West"</strong>
+                <br>
+                <br>
+                2026 marks the full enforcement of major crypto regulations like the EU's MiCA (Markets in Crypto-Assets) and the global adoption of the FATF "Travel Rule".
+                <br>
+                <br>
+                <strong>Record Penalties:</strong> Global AML fines jumped significantly in the past year, with billions in penalties levied against crypto exchanges failing to verify user identities.
+                <br>
+                <strong>Vietnam's Move:</strong> The Vietnamese government has begun tightening control over crypto-linked laundering, following reports of trillions of VND being moved through peer-to-peer exchanges.
+                <br>
+                <br>
+                <strong>Major Enforcement Actions &amp; Scandals</strong>
+                <br>
+                <br>
+                Recent cases highlight that no sector is immune to AML failures.
+                <br>
+                <br>
+                <strong>Luxury Laundering:</strong> In February 2026, the Dutch brand of Louis Vuitton was fined €500,000 for AML breaches involving a high-end handbag resale scheme.
+                <br>
+                <strong>Casino Failures:</strong> Regulators in Nevada imposed record fines of $27 million against major Las Vegas operators for systemic failures linked to illegal bookmaking.
+                <br>
+                <br>
+                <strong>Final Verdict</strong>
+                <br>
+                <br>
+                The Money Laundering News of 2026 is clear: compliance is moving from a periodic "check-box" activity to a real-time, data-driven necessity. Companies that fail to integrate AI and blockchain analytics into their defenses face not just fines, but existential reputational risk.
+            </p>`
+    },
+    {
+        id: 36,
+        description: "Healthcare Innovation News 2026: The Rise of AI-First Medicine & Virtual Care",
+        type: 'HEALTHCARE INNOVATION',
+        type1: 'Tech and Innovation',
+        type2: 'Latest',
+        author: 'Mike Lee',
+        img: "../assets/img/img38.png",
+        imgCaption: "AI in medicine 2026 – virtual hospital and healthcare robotics trends",
+        focusKeyword: "Healthcare Innovation News",
+        seoTitle: "Healthcare Innovation News 2026: The Rise of AI-First Medicine & Virtual Care",
+        metaDescription: "Explore the latest Healthcare Innovation News in 2026. From AI medical scribes and robotic phlebotomy to the explosion of virtual hospitals, see how tech is reshaping patient care.",
+        slug: "/healthcare-innovation-news-2026-ai-first-medicine-virtual-care",
+        keywords: "healthcare technology 2026, AI in medicine, virtual hospital trends, medical robotics news, biotech breakthroughs.",
+        altText: "AI in medicine 2026 – virtual hospital and healthcare robotics trends",
+        content: `<p>
+                <strong>Healthcare Innovation News: The 2026 Shift Toward Intelligent, Personalized Care</strong>
+                <br>
+                <br>
+                2026 marks the year that "experimental" technologies have officially become "essential" infrastructure. In today’s Healthcare Innovation News, we explore how AI, robotics, and decentralized care models are moving medicine from reactive treatment to proactive wellness.
+                <br>
+                <br>
+                <strong>AI Scribes and the "Humanization" of Medicine</strong>
+                <br>
+                <br>
+                The biggest innovation of 2026 isn't just a new drug, but the liberation of doctors from paperwork.
+                <br>
+                <br>
+                <strong>The Trend:</strong> Ambient AI scribes now boast a 90% adoption rate in major health systems. By capturing and structuring patient conversations in real-time, these tools have reduced "pajama time" (after-hours charting) by 70%.
+                <br>
+                <strong>Impact:</strong> Doctors are spending more time looking at patients and less time looking at screens, significantly reducing burnout across the industry.
+                <br>
+                <br>
+                <strong>The Era of the "Virtual Hospital"</strong>
+                <br>
+                <br>
+                Hospital walls are effectively disappearing. 2026 has seen the maturation of the Virtual Hospital model, where acute care is delivered in the patient’s home.
+                <br>
+                <br>
+                <strong>Home-Based Care:</strong> High-acuity remote monitoring platforms now enable patients with conditions such as pneumonia or heart failure to be treated at home, achieving the same safety outcomes as inpatient wards.
+                <br>
+                <strong>Self-Service Innovations:</strong> AI-powered kiosks, such as Eyebot, now allow users to get a medical-grade vision prescription in under 90 seconds without an on-site optometrist, exemplifying the shift toward "on-demand" healthcare.
+                <br>
+                <br>
+                <strong>Robotics: Precision Beyond Human Limits</strong>
+                <br>
+                <br>
+                Robotics has moved from the operating room to the laboratory and clinic floor.
+                <br>
+                <br>
+                <strong>Autonomous Phlebotomy:</strong> Robotic systems like those from Vitestro are now performing thousands of blood draws autonomously using AI-guided ultrasound, ensuring a "first-stick" success rate far higher than manual methods.
+                <br>
+                <strong>Surgical Twins:</strong> Surgeons now use "Digital Twins" of a patient’s specific organ to practice complex procedures in a virtual environment before making a single incision.
+                <br>
+                <br>
+                <strong>Biotech: The CRISPR-AI Synergy</strong>
+                <br>
+                <br>
+                In the lab, the convergence of CRISPR gene editing and Generative AI is accelerating drug discovery.
+                <br>
+                <br>
+                <strong>Breakthroughs:</strong> AI is now being used to predict how genetic edits will affect protein folding, allowing researchers to design treatments for rare diseases in months rather than decades.
+                <br>
+                <strong>Non-Invasive Screening:</strong> Multi-cancer early detection (MCED) blood tests are being integrated into annual physicals and can detect over 50 types of cancer at Stage 0 or 1.
+                <br>
+                <br>
+                <strong>The Bottom Line:</strong>
+                <br>
+                <br>
+                The Healthcare Innovation News of 2026 is defined by efficiency and accessibility. As we bridge the gap between high-tech labs and home care, the focus has shifted from managing illness to optimizing human performance and longevity.
+            </p>`
+    },
+    {
+        id: 37,
+        description: "AI News 2026: From Generative Chatbots to Autonomous AI Agents",
+        type: 'A.I. NEWS',
+        type1: 'A.I.',
+        type2: 'Latest',
+        author: 'Pam Ran',
+        img: "../assets/img/img39.png",
+        imgCaption: "Autonomous AI agents 2026 – the future of agentic artificial intelligence and Large Action Models",
+        focusKeyword: "AI News",
+        seoTitle: "AI News 2026: From Generative Chatbots to Autonomous AI Agents",
+        metaDescription: "Stay updated with the latest AI News. Discover the 2026 shift toward AI Agents, the rise of \"Small Language Models,\" and the impact of the new Global AI Accord.",
+        slug: "/ai-news-2026-autonomous-agents-slm-gaia",
+        altText: "Autonomous AI agents 2026 – the future of agentic artificial intelligence and Large Action Models",
+        content: `<p>
+                <strong>AI News: Beyond the Chatbot – The Era of Autonomous Agents</strong>
+                <br>
+                <br>
+                2026 marks the definitive end of the "chatbot era" and the beginning of the "agentic era." AI is no longer just a tool we talk to; it has become a workforce that executes. In today’s AI News, we explore the major shifts defining the most transformative year in technology history.
+                <br>
+                <br>
+                <strong>The Rise of Agentic AI: Tools That "Do"</strong>
+                <br>
+                <br>
+                The biggest headline in AI News this year is the transition from LLMs (Large Language Models) to LAMs (Large Action Models).
+                <br>
+                <br>
+                <strong>Autonomous Execution:</strong> Unlike 2024’s chatbots that provided information, 2026’s AI Agents can plan and execute multi-step tasks—such as booking an entire business trip, reconciling corporate tax records, or managing a software development sprint—with minimal human oversight.
+                <br>
+                <strong>Business Impact:</strong> Companies are shifting from "AI-assisted" to "AI-automated" workflows, resulting in a projected 40% increase in operational efficiency across the service sector.
+                <br>
+                <br>
+                <strong>"Small" is the New "Big": The SLM Revolution</strong>
+                <br>
+                <br>
+                The rise of Small Language Models (SLMs) is a key development, even as models like Gemini 3 and GPT-6 continue to advance.
+                <br>
+                <br>
+                <strong>Edge Computing:</strong> These models are optimized to run on smartphones and laptops without an internet connection.
+                <br>
+                <strong>Privacy &amp; Speed:</strong> SLMs process data locally. This provides quick response times and better data privacy, making them suitable for healthcare and legal professionals.
+                <br>
+                <br>
+                <strong>The Global AI Accord (GAIA)</strong>
+                <br>
+                <br>
+                The ratification of the Global AI Accord is a significant event in AI News for 2026.
+                <br>
+                <br>
+                <strong>The Framework:</strong> GAIA sets safety standards for "frontier" model training. It also mandates watermarking for all AI-generated content to prevent deepfakes.
+                <br>
+                <strong>Regulation:</strong> This agreement provides a roadmap for startups to scale globally, replacing the fragmented regulatory landscape.
+                <br>
+                <br>
+                <strong>Physical AI: Brains Meet Bodies</strong>
+                <br>
+                <br>
+                AI has entered the physical world.
+                <br>
+                <br>
+                <strong>Humanoid Integration:</strong> General-purpose robots are deployed in logistics centers and elderly care facilities. End-to-end neural networks power these robots.
+                <br>
+                <strong>Sensory Synthesis:</strong> These AI systems can "see," "hear," and "feel" with human-like precision. This allows them to navigate complex environments safely.
+                <br>
+                <br>
+                <strong>The Bottom Line:</strong>
+                <br>
+                <br>
+                The AI News of 2026 indicates that the technology has moved past the "hype cycle" into the "utility cycle." The most successful are those who can integrate autonomous agents into their daily operations.
+            </p>`
+    },
+    {
+        id: 38,
+        description: "Lifestyle News 2026: The Rise of \"Slow Tech\" and Biological Ageing",
+        type: 'SLOW TECH LIFESTYLE',
+        type1: 'Lifestyle',
+        type2: 'Latest',
+        author: 'Wendy Wong',
+        img: "../assets/img/img40.png",
+        imgCaption: "Slow Tech lifestyle 2026 – analog devices and intentional living in a digital world",
+        focusKeyword: "Lifestyle News",
+        seoTitle: "Lifestyle News 2026: The Rise of \"Slow Tech\" and Biological Ageing",
+        metaDescription: "Discover the latest Lifestyle News in 2026. From the \"Slow Tech\" movement to the obsession with biological age and micro-travel, see how we are living today.",
+        slug: "/lifestyle-news-2026-slow-tech-biological-ageing",
+        altText: "Slow Tech lifestyle 2026 – analog devices and intentional living in a digital world",
+        content: `<p>
+                <strong>Lifestyle News: Redefining "The Good Life" in 2026</strong>
+                <br>
+                <br>
+                The lifestyle landscape of 2026 is defined by a paradox: a deep desire for primitive connection in an ultra-digital world. In today’s Lifestyle News, we explore how "Slow Tech," longevity science, and the "micro-living" movement are reshaping our daily routines.
+                <br>
+                <br>
+                <strong>The "Slow Tech" Movement</strong>
+                <br>
+                <br>
+                After years of digital saturation, 2026 has seen a massive surge in "Slow Tech" living. This isn't about quitting technology, but intentionally choosing "low-fi" alternatives for personal joy.
+                <br>
+                <br>
+                <strong>The Trend:</strong> Sales of analog cameras, vinyl records, and paper planners have hit a 15-year high.
+                <br>
+                <strong>Digital Detox 2.0:</strong> "Dumbphones" (feature phones with only basic calling/texting) have become a status symbol for the elite, representing the luxury of being "unreachable."
+                <br>
+                <br>
+                <strong>Longevity: Focus on Biological Age</strong>
+                <br>
+                <br>
+                In Lifestyle News, wellness has shifted from "looking good" to "staying young at a cellular level."
+                <br>
+                <br>
+                <strong>Bio-Tracking:</strong> Wearables now track "Biological Age" instead of just steps or heart rate. People are obsessing over biomarkers and "Reverse Aging" diets.
+                <br>
+                <strong>The Longevity Kitchen:</strong> Diets are now highly personalized based on monthly DNA snapshots, with a focus on "senolytic foods" that help clear out old cells.
+                <br>
+                <br>
+                <strong>Micro-Adventures and "Quiet Travel"</strong>
+                <br>
+                <br>
+                Travel in 2026 is no longer about checking off famous landmarks. Instead, "Micro-adventures" and "Quiet Travel" are dominating the industry.
+                <br>
+                <br>
+                <strong>Near-Cations:</strong> More people are choosing high-quality, 48-hour trips within 100 miles of their home to reduce carbon footprints and "travel fatigue."
+                <br>
+                <strong>Silent Retreats:</strong> Destinations that offer "total digital silence" and "dark sky" stargazing are the most booked accommodations of the year.
+                <br>
+                <br>
+                <strong>The "Small-Home" Esthetic</strong>
+                <br>
+                <br>
+                As urban living costs rise, the lifestyle of "Elegant Minimalism" has taken over interior design.
+                <br>
+                <br>
+                <strong>Multi-Functional Spaces:</strong> Furniture that transforms (beds that become desks, walls that move) is no longer a gimmick but a standard for the modern "Compact Life."
+                <br>
+                <strong>Biophilic Design:</strong> Bringing the outdoors in is a must—indoor "micro-forests" and smart hydroponic walls are the top home decor trends of 2026.
+                <br>
+                <br>
+                <strong>The Bottom Line:</strong>
+                <br>
+                <br>
+                The Lifestyle News of 2026 tells a story of quality over quantity. Whether it’s how we travel, how we decorate, or how we age, the goal is now "meaningful living" over "mindless consuming."
+            </p>`
+    },
+    {
+        id: 39,
+        description: "Latest Election News 2026: Global Shifts and US Midterm Heat",
+        type: 'ELECTION NEWS',
+        type1: 'Politics',
+        type2: 'Latest',
+        author: 'Dan Robert',
+        img: "../assets/img/img41.png",
+        imgCaption: "2026 election news – US Midterms, Europe shifts, and Asia-Pacific elections",
+        focusKeyword: "Latest Election News",
+        seoTitle: "Latest Election News 2026: Global Shifts and US Midterm Heat",
+        metaDescription: "Stay updated with the Latest Election News. From the US Midterm countdown to historic leadership changes in Europe and Asia, explore the 2026 political landscape.",
+        slug: "/latest-election-news-2026-global-shifts-us-midterm-heat",
+        altText: "2026 election news – US Midterms, Europe shifts, and Asia-Pacific elections",
+        content: `<p>
+                <strong>Latest Election News: A World in Transition – 2026 Election Brief</strong>
+                <br>
+                <br>
+                As we reach the second quarter of 2026, the global political map is being redrawn. From "super-majorities" in Europe to the high-stakes primary season in the United States, here is the Latest Election News defining democracy today.
+                <br>
+                <br>
+                <strong>United States: The Countdown to November 3</strong>
+                <br>
+                <br>
+                The U.S. is currently in the heat of the primary season for the 2026 Midterm Elections.
+                <br>
+                <br>
+                <strong>Congressional Exodus:</strong> A record-breaking 55 House members have announced their retirement, leading to a wave of fresh, younger candidates on both sides of the aisle.
+                <br>
+                <strong>Key Battlegrounds:</strong> Control of the Senate remains a coin toss, with special attention on Georgia and Arizona, where voter turnout initiatives are already breaking previous records.
+                <br>
+                <strong>The "Gen Alpha" Factor:</strong> For the first time, political strategists are adjusting platforms to address the economic anxieties of the youngest voting bloc entering the fold.
+                <br>
+                <br>
+                <strong>Europe’s New Guard: Bulgaria and Hungary</strong>
+                <br>
+                <br>
+                Voters across Europe are signaling a desire for stability and anti-corruption measures.
+                <br>
+                <br>
+                <strong>Bulgaria:</strong> After years of deadlock, Rumen Radev’s Progressive party has secured a decisive majority, promising an end to the cycle of snap elections that has plagued the nation since 2021.
+                <br>
+                <strong>Hungary:</strong> Following the historic shift away from Orban, the new leadership under Peter Magyar is moving rapidly to reintegrate Hungary into the EU’s core financial and defense frameworks.
+                <br>
+                <br>
+                <strong>Asia-Pacific: Local Governance and Delays</strong>
+                <br>
+                <br>
+                <strong>South Korea:</strong> The nation is gearing up for the June 3 Local Elections. Current polling suggests a strong lead for the opposition Democratic Party (DPK) as economic concerns take center stage over foreign policy.
+                <br>
+                <strong>Philippines:</strong> In a significant move, the Barangay and Sangguniang Kabataan elections have been officially moved to November 2026. Watchdogs are calling for increased transparency in the lead-up to this massive grassroots vote.
+                <br>
+                <br>
+                <strong>The Rise of "Election Integrity AI"</strong>
+                <br>
+                <br>
+                A major headline in the Latest Election News is the implementation of AI-driven verification systems.
+                <br>
+                <br>
+                <strong>Countering Deepfakes:</strong> Governments are deploying real-time "Digital Watermark" detectors to prevent AI-generated misinformation from swaying undecided voters in the final 48 hours of the polling period.
+                <br>
+                <strong>Blockchain Voting:</strong> Several pilot programs in Northern Europe are successfully testing blockchain-based absentee ballots to ensure absolute tamper-proof results.
+                <br>
+                <br>
+                <strong>The Bottom Line:</strong>
+                <br>
+                <br>
+                2026 is proving that voters are less concerned with ideology and more focused on functional governance. The winners of this year’s elections will be those who can demonstrate a tangible plan for economic resilience and digital security.
+            </p>`
     }
 
 ];
